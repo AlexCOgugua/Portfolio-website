@@ -239,6 +239,7 @@ h2 {
   right: 3%;
   bottom: 3%;
   cursor: pointer;
+  scroll-behaviour: smooth;
 }
 
 /* Form Pop-up */
